@@ -1,2 +1,2 @@
 # FirstRepository
-Just Joined Github
+I will add C language codes on this repository
